@@ -1,6 +1,7 @@
 ## Hi! I'm Ann 👋 :smile:
 
-- I’m currently learning frontend development at IT-Högskolan 👩🏾‍💻
+#### I’m currently learning frontend development at IT-Högskolan 👩🏾‍💻
+
 - Pronouns: she/her 👩🏾
 - Black Lives Matter ✊🏾
 - Love is love 🏳️‍🌈
