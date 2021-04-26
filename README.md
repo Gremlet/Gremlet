@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi! I'm Ann 👋 :smile:
 
-#### 🌱 I’m currently learning frontend development at IT-Högskolan
-#### 😄 Pronouns: she/her
+- 🌱 I’m currently learning frontend development at IT-Högskolan
+- 😄 Pronouns: she/her
 
 
 <!--
