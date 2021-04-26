@@ -4,7 +4,7 @@
 - Pronouns: she/her 👩🏾
 - Black Lives Matter ✊🏾
 - Love is love 🏳️‍🌈
-- Trans rights are human rights 🏳️‍⚧️
+- Trans rights are human rights 
 
 
 <!--
