@@ -2,11 +2,13 @@
 
 #### 🌱 I’m currently learning frontend development at IT-Högskolan
 #### 😄 Pronouns: she/her
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gremlet)](https://github.com/Gremlet/github-readme-stats)
 
 
 <!--
 **Gremlet/Gremlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gremlet)](https://github.com/Gremlet/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
