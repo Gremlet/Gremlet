@@ -1,4 +1,4 @@
-## Hi! I'm Ann 👋 :smile:
+## Hi! I'm Ann 👋🏾 👩🏾‍💻
 
 #### I’m currently learning frontend development at IT-Högskolan 👩🏾‍💻
 
