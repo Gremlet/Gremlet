@@ -2,6 +2,9 @@
 
 #### I’m currently learning frontend development at IT-Högskolan 👩🏾‍💻
 
+![Gremlet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gremlet&show_icons=true&theme=radical)
+
+
 - Pronouns: she/her 👩🏾
 - Black Lives Matter ✊🏾
 - Love is love 🏳️‍🌈
